@@ -1,0 +1,6 @@
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Entity\bin\Debug\Entity.dll
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Entity\bin\Debug\Entity.pdb
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Entity\obj\Debug\Entity.dll
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Entity\obj\Debug\Entity.pdb

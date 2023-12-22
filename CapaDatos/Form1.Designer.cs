@@ -1,4 +1,4 @@
-﻿namespace AMPM_ProductInventory
+﻿namespace CapaDatos
 {
     partial class Form1
     {

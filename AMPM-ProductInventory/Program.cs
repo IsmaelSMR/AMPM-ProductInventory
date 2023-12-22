@@ -11,12 +11,18 @@ namespace AMPM_ProductInventory
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// 
+
+        /*
+         No me siento orgulloso de lo que estoy entregando
+         */
+
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmLogging());
         }
     }
 }

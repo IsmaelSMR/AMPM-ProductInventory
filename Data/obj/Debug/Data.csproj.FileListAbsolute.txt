@@ -1,0 +1,9 @@
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\bin\Debug\Data.dll
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\bin\Debug\Data.pdb
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\bin\Debug\Entity.dll
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\bin\Debug\Entity.pdb
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\obj\Debug\Data.dll
+C:\Users\oisan\Desktop\AMPM\AMPM-ProductInventory\Data\obj\Debug\Data.pdb

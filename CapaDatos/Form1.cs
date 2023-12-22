@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AMPM_ProductInventory
+namespace CapaDatos
 {
     public partial class Form1 : Form
     {
